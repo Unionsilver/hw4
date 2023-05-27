@@ -1,3 +1,4 @@
+// привет
 public class Main {
     public static void main(String[] args) {
         task1();
@@ -89,7 +90,7 @@ public class Main {
             System.out.println("Мест сидячих не осталось! осталось " + peopleSeatOnTrain + " стоячих места! поторопитесь!");
 
         } else {
-            System.out.println("Мест нету! попробуйте выбрать другую дату!");
+            System.out.println("Мест нету! попробуйте выбрать другую дату!!");
         }
     }
 
